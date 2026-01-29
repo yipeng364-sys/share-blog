@@ -1,0 +1,7 @@
+{
+  "name": "Void Sanctuary v2.0",
+  "description": "A high-fidelity interactive digital life space with dynamic blogging, per-post comment resonance, and ephemeral themes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
